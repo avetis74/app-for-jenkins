@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Сегодня $(date)"
+
+echo "Вы находитесь в каталоге $PWD и ваш хост - это $HOSTNAME"
+
+exit 0
